@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "uniqClass": "box-icon box1",
+        "boxIcon": "flaticon-thumbs-like",
+        "title": "Emerging Technologies",
+        "subTitle": "Our courses have got you covered in learning, developing, and effectively using emerging technologies. What do you need more to make your portfolio eye-catching?"
+    },
+    {
+        "id": "2",
+        "uniqClass": "box-icon box2",
+        "boxIcon": "flaticon-reading",
+        "title": "Scholarships",
+        "subTitle": "PFTP courses provide youth a doorway to bigger opportunities such as encompassing scholarships to give them access to higher education."
+    },
+    {
+        "id": "3",
+        "uniqClass": "box-icon box3",
+        "boxIcon": "flaticon-teacher",
+        "title": "Internships",
+        "subTitle": "Amazing paid/unpaid internships would be available to our certified students to increase their employment probability in the highly competitive market."
+    }
+]

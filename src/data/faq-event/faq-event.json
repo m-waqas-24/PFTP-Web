@@ -1,0 +1,19 @@
+{
+    "faqDataList": [
+        {
+            "id": "1",
+            "faqTitle": "WHY PFTP?",
+            "faqDesc": "Scholarships training program.Get a chance to introduce your startup in business Mentorship program."
+        },
+        {
+            "id": "2",
+            "faqTitle": "WHY PFTP IS GREAT?",
+            "faqDesc": "PFTP instructors are real people who are passionate about sharing what they know with students all over the world."
+        },
+        {
+            "id": "3",
+            "faqTitle": "HOW TO JOIN PFTP?",
+            "faqDesc": "Find your course.Get register your self on online portal by click on apply button.Avail discount if any.Start your course"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "secTitle": "Lets See What the IT Industry Thinks About us. The Remarks",
+    "backgroundImage": "vd-bg.jpg",
+    "dataList": [
+        {
+            "id": "1",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "PFTP is one of the finest institute to support the youth in the race of emerging Technology. I would recommend students to register at this platform and make your skills more effective",
+            "authorImg": "mr.jpg",
+            "authorName": "Murad Rass",
+            "authorTitle": "Minister School Education Punjab"
+        },
+        {
+            "id": "2",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitation maior. Placeat repellat, et totam optio. Sequi qui laborum ratione cumque tempo totam voluptatum.",
+            "authorImg": "sr.jpg",
+            "authorName": "Sadia Sohail Rana",
+            "authorTitle": "Provincial Assembly of the Punjab"
+        },
+        {
+            "id": "2",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitation maior. Placeat repellat, et totam optio. Sequi qui laborum ratione cumque tempo totam voluptatum.",
+            "authorImg": "pmpa.jpg",
+            "authorName": "Syed Hussain Jahania Gardezi",
+            "authorTitle": "Provincial Minister of Punjab for Agriculture"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "secTitle": "Lets see what our valuable students think about us. Their Testimonials!",
+    "dataList": [
+        {
+            "id": "1",
+            "mainImage": "about-1.jpg",
+            "videoBackground": "vd-bg.jpg",
+            "personImage": "team-1.jpg",
+            "personName": "Emily Perrey",
+            "personTitle": "Laptop Winner",
+            "socialLinks": {
+                "facebook": "//www.facebook.com",
+                "twitter": "//www.twitter.com",
+                "linkedin": "//www.linkedin.com",
+                "youtube": "//www.youtube.com"
+            }
+        },
+        {
+            "id": "2",
+            "mainImage": "about-1.jpg",
+            "videoBackground": "vd-bg.jpg",
+            "personImage": "team-1.jpg",
+            "personName": "Justin Timbr",
+            "personTitle": "Laptop Winner",
+            "socialLinks": {
+                "facebook": "//www.facebook.com",
+                "twitter": "//www.twitter.com",
+                "linkedin": "//www.linkedin.com",
+                "youtube": "//www.youtube.com"
+            }
+        },
+        {
+            "id": "3",
+            "mainImage": "about-1.jpg",
+            "videoBackground": "vd-bg.jpg",
+            "personImage": "team-1.jpg",
+            "personName": "Medison White",
+            "personTitle": "Laptop Winner",
+            "socialLinks": {
+                "facebook": "//www.facebook.com",
+                "twitter": "//www.twitter.com",
+                "linkedin": "//www.linkedin.com",
+                "youtube": "//www.youtube.com"
+            }
+        },
+        {
+            "id": "4",
+            "mainImage": "about-1.jpg",
+            "videoBackground": "vd-bg.jpg",
+            "personImage": "team-1.jpg",
+            "personName": "Mark Shadow",
+            "personTitle": "Laptop Winner",
+            "socialLinks": {
+                "facebook": "//www.facebook.com",
+                "twitter": "//www.twitter.com",
+                "linkedin": "//www.linkedin.com",
+                "youtube": "//www.youtube.com"
+            }
+        },
+        {
+            "id": "5",
+            "mainImage": "about-1.jpg",
+            "videoBackground": "vd-bg.jpg",
+            "personImage": "team-1.jpg",
+            "personName": "Katy Perrey",
+            "personTitle": "Laptop Winner",
+            "socialLinks": {
+                "facebook": "//www.facebook.com",
+                "twitter": "//www.twitter.com",
+                "linkedin": "//www.linkedin.com",
+                "youtube": "//www.youtube.com"
+            }
+        }
+    ]
+}

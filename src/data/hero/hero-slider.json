@@ -1,0 +1,28 @@
+[
+    
+    {
+        "id": "1",
+        "backgroundImage": "slider-3.jpg",
+        "uniqClass": "slider-box slider-box1",
+        "title": ""
+       
+    },
+    {
+        "id": "1",
+        "backgroundImage": "slider-1.jpg",
+        "uniqClass": "slider-box slider-box1",
+        "title": "Welcome To PFTP",
+        "desc": " PFTP is Pakistan's one of the largest IT Training & Services Based organization",
+        "btnOneLink": "course-grid",
+        "btnTwoLink": "contact"
+    },
+    {
+        "id": "2",
+        "backgroundImage": "slider-2.jpg",
+        "uniqClass": "slider-box slider-box2 text-right",
+        "title": "Welcome To PFTP",
+        "desc": "PFTP has initiated Phase 02 to promote Corporate Linkage & Startups All across Pakistan.",
+        "btnOneLink": "course-grid",
+        "btnTwoLink": "contact"
+    }
+]
